@@ -1,0 +1,6 @@
+{
+  "name": "EnterpriseCore",
+  "description": "EnterpriseCore is a high-performance B2B platform showcasing scalable cloud infrastructure, cybersecurity excellence, and enterprise-grade performance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
